@@ -45,3 +45,6 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - ishahid/smartmap
+ - ishahid/django-gdm
+ - ishahid/django-blogg
